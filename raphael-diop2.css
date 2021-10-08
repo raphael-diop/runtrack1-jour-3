@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200&family=Inconsolata:wght@200;400&family=Scheherazade+New&display=swap');
+
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;  
+}
+    
+
+h2{
+    font-family: 'Scheherazade New', serif ;
+}
+
+body{
+    background-color: darkcyan;
+    position: relative;
+    margin-top: 10%; margin-bottom: 10%; margin-left: 10%; margin-right: 10%;
+}
+
+header{
+    border-style: groove; color: darkorchid;
+}
+
+#logo{
+    position: absolute; top: 0%; left: 0%;
+    width: 10%;
+    height: 92%;
+}
+
+
+
+aside{
+    position: absolute; left: 0%;
+    width: 35%;
+    border-style: double; color:blue ;
+}
+
+#Titre-profil{
+    text-decoration: underline;
+}
+
+
+
+section{
+   
+    position: absolute; right: 0%; top: ;
+    width: 60%; height: 440%;
+    padding-left: 1%;
+}
+
+
+
+
+

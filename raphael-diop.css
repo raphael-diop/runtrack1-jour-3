@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+h1{
+    font-family:  'Roboto Mono', monospace;
+}
+
+h2{
+    font-family:  'PT Sans', sans-serif;
+}
+
+body{
+    background-color: darkgrey;
+    position: relative;
+    margin-top: 10%; margin-bottom: 10%; margin-left: 10%; margin-right: 10%;
+}
+
+header{
+    border-style: double;
+}
+
+#logo{
+    position: absolute; top: 0%; left: 0%;
+    width: 10%;
+    height: 92%;
+}
+
+
+
+aside{
+    position: absolute; left: 0%;
+    width: 35%;
+    border-style: double; color:black ;
+}
+
+#Titre-profil{
+    text-decoration: underline;
+}
+
+
+
+section{
+   
+    position: absolute; right: 0%; top: ;
+    width: 60%; height: 440%;
+    border-style: double; color:black ;
+    padding-left: 1%;
+}
